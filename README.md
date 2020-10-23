@@ -1,5 +1,3 @@
 # OceanBlue Website
 
-> Fake cloud hosting webiste.
-
-> [Live version](https://oceanbluecss.netlify.app/index.html)
+ [Live version](https://oceanbluecss.netlify.app/index.html)
